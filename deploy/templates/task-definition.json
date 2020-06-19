@@ -1,0 +1,13 @@
+[
+    {
+      "name": "bpdts-tech-test",
+      "image": "casparrolfe/bpdts-tech-test",
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 5000,
+          "hostPort": 5000
+        }
+      ]
+    }
+  ]
